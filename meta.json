@@ -1,0 +1,23 @@
+{
+  "repo": "rufus-full",
+  "product": "Rufus Full",
+  "kind": "utility",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "usb-boot",
+  "topics": [
+    "rufus-portable",
+    "iso-write-desk",
+    "uefi-mbr-windows",
+    "rufus-2026",
+    "how-to-install-rufus",
+    "rufus-desktop-package",
+    "persist-label-suite",
+    "hash-check-tools",
+    "usb-boot-workshop",
+    "rufus-pro-portable"
+  ],
+  "site": "toolix.me"
+}
